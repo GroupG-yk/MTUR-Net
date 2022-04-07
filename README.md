@@ -6,11 +6,12 @@ Here is the open source code of the MTUR-Net.If you use our code, please conside
 ### Dataset
 https://li-chongyi.github.io/proj_benchmark.html
 ### Test
-1.Please down load our pretrained model at Google Drive or Baidu Cloud.  
-Google drive:  
-Baidu Cloud:  
+1.For the MT dataset and data lists:
+
+Baidu Cloud:
 
 2.Test the MTUR-Net:
+If you want to use our pretrained model, please load 30000.pth in infer.py.
 ```
 python infer.py
 ```
