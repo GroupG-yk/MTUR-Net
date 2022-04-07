@@ -8,7 +8,7 @@ https://li-chongyi.github.io/proj_benchmark.html
 
 1.For the MT dataset and data lists:
 
-Baidu Cloud:https://pan.baidu.com/s/1TYkjOSZlRWNaEwckis3rtQ    password: mtur 
+Baidu Cloud:     https://pan.baidu.com/s/1TYkjOSZlRWNaEwckis3rtQ    password: mtur 
 
 
 ### Test
@@ -26,3 +26,7 @@ python infer.py
 ```
 python train.py
 ```
+### For evaluation
+PSNR, SSIM : evaluate.m
+UIQM, UCIQE :
+https://github.com/xahidbuffon/FUnIE-GAN/tree/master/Evaluation
